@@ -8,6 +8,8 @@ public class PruebaJAVA3 {
 		b=3;
 		c=2;
 		System.out.println(a+b+c);
+		System.out.println(a);
+		System.out.println(b);
 		
 
 	}
